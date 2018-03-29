@@ -1,0 +1,47 @@
+
+
+.Pierre
+{
+
+
+background-image: url(ancienne-auberge.jpg);
+//background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+
+
+
+display:flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+.grandtitre
+{
+  text-align:center;
+
+  font-size: 35px;
+  color: #000000;
+
+
+}
+
+
+
+.slogan
+{
+  text-align:center;
+
+  font-size: 16px;
+  color: #000000;
+}
