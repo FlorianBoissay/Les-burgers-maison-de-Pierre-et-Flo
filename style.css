@@ -1,0 +1,32 @@
+body {
+  font-family: 'Cabin Sketch', cursive;
+}
+
+h5 {
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.Florian {
+    text-align: center;
+    background-color: #FAEBD7;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.argument {
+  flex-direction: column;
+  padding: 30px;
+  justify-content: space-around;
+  width: 300px;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  border-radius: 50%;
+}
